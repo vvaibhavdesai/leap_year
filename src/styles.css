@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+}
+h2 {
+  color: white;
+  text-shadow: 2px 1px;
+}
+
+input {
+  background-color: transparent;
+  color: white;
+}
+#output {
+  color: white;
+  font-size: medium;
+}
+button {
+  border-radius: 1rem;
+  background-color: transparent;
+  color: white;
+  box-shadow: 0rem;
+}
